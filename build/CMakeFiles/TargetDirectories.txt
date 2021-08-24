@@ -1,0 +1,3 @@
+/media/e/Work/卡尔曼滤波与组合导航/PSINS/[self]SINS/build/CMakeFiles/edit_cache.dir
+/media/e/Work/卡尔曼滤波与组合导航/PSINS/[self]SINS/build/CMakeFiles/rebuild_cache.dir
+/media/e/Work/卡尔曼滤波与组合导航/PSINS/[self]SINS/build/CMakeFiles/SINS.dir

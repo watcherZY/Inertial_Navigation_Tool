@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-g++-5   -O3   CMakeFiles/SINS.dir/main.cpp.o CMakeFiles/SINS.dir/SINS.cpp.o  -o SINS  

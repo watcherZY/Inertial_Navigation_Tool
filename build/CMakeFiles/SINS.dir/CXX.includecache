@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/e/Work/卡尔曼滤波与组合导航/PSINS/[self]SINS/./SINS.h
+iostream
+-
+vector
+-
+cmath
+-
+eigen3/Eigen/Core
+-
+eigen3/Eigen/Geometry
+-
+eigen3/Eigen/Dense
+-
+fstream
+-
+
+/media/e/Work/卡尔曼滤波与组合导航/PSINS/[self]SINS/SINS.cpp
+./SINS.h
+/media/e/Work/卡尔曼滤波与组合导航/PSINS/[self]SINS/./SINS.h
+
+/media/e/Work/卡尔曼滤波与组合导航/PSINS/[self]SINS/main.cpp
+./SINS.h
+/media/e/Work/卡尔曼滤波与组合导航/PSINS/[self]SINS/./SINS.h
+

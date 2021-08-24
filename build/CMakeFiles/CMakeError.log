@@ -1,0 +1,24 @@
+Compilation of the C compiler identification source "CMakeCCompilerId.c" did not produce an executable in "/media/e/Work/卡尔曼滤波与组合导航/PSINS/[self]SINS/build/CMakeFiles/3.5.1/CompilerIdC".
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" did not produce an executable in "/media/e/Work/卡尔曼滤波与组合导航/PSINS/[self]SINS/build/CMakeFiles/3.5.1/CompilerIdC".
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/x86_64-linux-gnu-gcc-5 
+Build flags: 
+Id flags: -Aa
+
+The output was:
+1
+<command-line>:0:1: error: missing '(' after predicate
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+x86_64-linux-gnu-gcc-5: fatal error: no input files
+compilation terminated.
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" did not produce an executable in "/media/e/Work/卡尔曼滤波与组合导航/PSINS/[self]SINS/build/CMakeFiles/3.5.1/CompilerIdCXX".
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" did not produce an executable in "/media/e/Work/卡尔曼滤波与组合导航/PSINS/[self]SINS/build/CMakeFiles/3.5.1/CompilerIdCXX".
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+x86_64-linux-gnu-g++-5: fatal error: no input files
+compilation terminated.
